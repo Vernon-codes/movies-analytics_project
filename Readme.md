@@ -18,11 +18,12 @@ This project performs **exploratory data analysis (EDA)** and **visual analytics
 1. [Dataset](#dataset)  
 2. [Technologies](#technologies)  
 3. [Setup](#setup)  
-4. [Usage](#usage)  
-5. [EDA and Visualizations](#eda-and-visualizations)  
-6. [Database Integration](#database-integration)  
-7. [Project Structure](#project-structure)  
-8. [License](#license)  
+4. [Usage](#usage)   
+5. [Project Structure](#project-structure)  
+6. [License](#license)
+7. [Contributing](#Contributing)
+8. [Acknowledgements](#Acknowledgements)
+9. [Author](#Author)
 
 ---
 
@@ -73,8 +74,10 @@ MYSQL_HOST=localhost
 MYSQL_DB=imdb_top250
 MYSQL_PORT=3306
 ```
-### 5.Usage
+---
+## Usage
 - Run EDA Notebook
+---
 
 ## Project Structure
 ```
@@ -102,8 +105,11 @@ movies-analytics_project/
 ├── README.md
 └── requirements.txt
 ```
+---
+
 ## LICENSE
 - This project is licensed under the [MIT License](https://github.com/Vernon-codes/movies-analytics_project/blob/main/LICENSE) – see the LICENSE file for details.
+---
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
@@ -112,16 +118,19 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes and commit (`git commit -m "Add new feature"`).
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a Pull Request.
+---
 
 ## Acknowledgements
 - IMDb Top 250 Movies Dataset
 - Python libraries: Pandas, Seaborn, Matplotlib
 - Learnings from documentation
+---
 
 ## Author
 - Name: Vernon Alva
 - Email: codewithvernon@gmail.com
 - GitHub: [Vernon-codes](https://github.com/Vernon-codes)
+
 
 
 
