@@ -31,6 +31,8 @@ print()
 print()
 print(cleaned_query_df.head())
 
+# Close the engine connection
+engine.dispose()
 
 
 
